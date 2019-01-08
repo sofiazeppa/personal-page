@@ -52,7 +52,7 @@ body {
   margin: 0;
 }
 .main-cont header .profile-info p {
-  font-size: 50px;
+  font-size: 20px;
 }
 .main-cont header .profile-info .social-media {
   display: flex;
