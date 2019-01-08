@@ -51,6 +51,9 @@ body {
 .main-cont header .profile-info h1, .main-cont header .profile-info h2 {
   margin: 0;
 }
+.main-cont header .profile-info p {
+  font-size: 50px;
+}
 .main-cont header .profile-info .social-media {
   display: flex;
   justify-content: space-evenly;
